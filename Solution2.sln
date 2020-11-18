@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DG35.Core", "..\DG35.Core\DG35.Core.csproj", "{D46FB447-1E77-45E2-8F07-8901EEF24CE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{F4DAC783-0612-40CE-BD0B-8084971F9D08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{D46FB447-1E77-45E2-8F07-8901EEF24CE7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D46FB447-1E77-45E2-8F07-8901EEF24CE7}.Release|x86.ActiveCfg = Release|x86
 		{D46FB447-1E77-45E2-8F07-8901EEF24CE7}.Release|x86.Build.0 = Release|x86
+		{F4DAC783-0612-40CE-BD0B-8084971F9D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DAC783-0612-40CE-BD0B-8084971F9D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DAC783-0612-40CE-BD0B-8084971F9D08}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F4DAC783-0612-40CE-BD0B-8084971F9D08}.Debug|x86.Build.0 = Debug|Any CPU
+		{F4DAC783-0612-40CE-BD0B-8084971F9D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DAC783-0612-40CE-BD0B-8084971F9D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DAC783-0612-40CE-BD0B-8084971F9D08}.Release|x86.ActiveCfg = Release|Any CPU
+		{F4DAC783-0612-40CE-BD0B-8084971F9D08}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
